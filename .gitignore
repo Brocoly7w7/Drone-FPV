@@ -1,0 +1,10 @@
+# Temporales del sistema / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Evitar añadir por accidente respaldos completos potencialmente identificables
+configuracion/*backup*.txt
+configuracion/*private*.txt
+configuracion/*privado*.txt
