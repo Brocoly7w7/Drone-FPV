@@ -60,3 +60,22 @@ Este repositorio es una **documentación de hardware**, no una aplicación ejecu
 **Juan Emmanuel Rosales Fernández**  
 Ingeniería Informática · Instituto Tecnológico Superior de Irapuato  
 [Portafolio profesional](https://brocoly7w7.github.io/portafolio-juan-emmanuel/) · [GitHub](https://github.com/Brocoly7w7)
+
+
+
+## Configuración de Betaflight
+
+El dron fue configurado utilizando Betaflight 4.5.2
+con una controladora SpeedyBee F405 V5.
+
+Características:
+- Control de motores mediante DSHOT300.
+- Telemetría y visualización OSD.
+- Configuración de GPS Rescue.
+- Configuración de iluminación LED.
+
+[Ver configuración de Betaflight](config/Betaflight_diff_publico.txt)
+
+Nota: Este archivo documenta la configuración del
+proyecto y no debe restaurarse sin comprobar la
+compatibilidad del hardware y firmware.
